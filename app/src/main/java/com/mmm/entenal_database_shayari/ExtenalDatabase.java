@@ -20,7 +20,7 @@ public class ExtenalDatabase extends SQLiteOpenHelper {
 
 
     Context context;
-    static final String DB_NAME = "Data.db";
+    static final String DB_NAME = "ShayariDb8.db";
     String DB_PATH = "";
 
 
